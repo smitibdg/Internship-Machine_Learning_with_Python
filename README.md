@@ -47,8 +47,3 @@ A personalized recommendation engine designed to suggest songs based on user pre
 * **Language:** Python
 * **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK
 * **Tools:** Jupyter Notebook, VS Code
-
-## 📜 Certifications
-This repository serves as the practical submission for my internship completion.
-* *Training Completion Certificate* (Elewayte/Acmegrade)
-* *Internship Completion Certificate* (Wipro)
